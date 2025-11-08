@@ -2,7 +2,7 @@
 <img id="myImage" src="QuestBoard UI.png" style="display:block;">
 <img id="myImage(1)" src="QuestBoard UI (1).png" style="display:none;">
 <br>
-<button onclick="toggleImage(); toggleImage1();">Show/Hide Image</button>
+<button style="position:absolute; top:900px; left:600px;" onclick="toggleImage(); toggleImage1();">Show/Hide Image</button>
 
 <script>
 function toggleImage() {
