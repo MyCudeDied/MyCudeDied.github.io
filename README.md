@@ -1,5 +1,6 @@
 # MyCudeDied.github.io
 # hellow
 # UWU
-<button>balls<button>
-    <button onclick="alert('Button was clicked!')">Click for Alert</button>
+
+<button onclick="alert('here you go!')">I want balls</button>
+<img src="images/cat.jpg" alt="Cute cat">
