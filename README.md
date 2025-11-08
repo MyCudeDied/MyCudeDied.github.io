@@ -25,8 +25,4 @@ function toggleImage1() {
   }
 }
 </script>
-<br>
-<button style="position:absolute; top:600px; left:900px;" onclick="document.getElementById('myImage').style.display='block'">Show</button>
-<button style="position:absolute; top:600px; left:1000px;" onclick="document.getElementById('myImage').style.display='none'">Hide</button>
 
-  
