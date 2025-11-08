@@ -1,8 +1,8 @@
 <button onclick="alert('here you go!')">I want balls</button>
 <img id="myImage" src="QuestBoard UI.png" >
-<img id="myImage(1)" src="QuestBoard UI(1).png" style="display:none;">
+<img id="myImage(1)" src="QuestBoard UI (1).png" style="display:none;">
 <br>
-<button onclick="toggleImage()">Show/Hide Image</button>
+<button onclick="toggleImage()" onclick="toggleImage1()">Show/Hide Image</button>
 
 <script>
 function toggleImage() {
@@ -15,7 +15,7 @@ function toggleImage() {
 }
 </script>
 <script>
-function toggleImage() {
+function toggleImage1() {
   const img = document.getElementById("myImage(1)");
   if (img.style.display === "none") {
     img.style.display = "block";
