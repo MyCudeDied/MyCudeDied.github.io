@@ -2,7 +2,7 @@
 <img id="myImage" src="QuestBoard UI.png" style="display:block; width:50%; height:50%;">
 <img id="myImage(1)" src="QuestBoard UI (1).png" style="display:none; width:50%; height:50%;">
 <br>
-<button style="position:absolute; top:80%; left:35%;" onclick="toggleImage(); toggleImage1();">______________________________</button>
+<button style="position:absolute; top:80%; left:35%; width:200px; height:60px;" onclick="toggleImage(); toggleImage1();">______________________________</button>
 
 <script>
 function toggleImage() {
