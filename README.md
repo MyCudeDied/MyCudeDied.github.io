@@ -3,4 +3,5 @@
 # UWU
 
 <button onclick="alert('here you go!')">I want balls</button>
-<img src="QuestBoard UI.png" width="350" height="600">
+<img src="QuestBoard UI.png" width="525" height="900">
+  
